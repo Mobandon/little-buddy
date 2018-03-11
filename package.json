@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "little-buddy:toggle"
   },
-  "repository": "https://github.com/mobandon/little-buddy",
+  "repository": "https://github.com/Mobandon/little-buddy",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
