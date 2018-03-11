@@ -1,0 +1,18 @@
+{
+  "name": "little-buddy",
+  "main": "./lib/little-buddy",
+  "version": "0.0.1",
+  "description": "Add a little picture below your tree view.",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "little-buddy:toggle"
+  },
+  "repository": "https://github.com/mobandon/little-buddy",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle little-buddy",
+        "command": "little-buddy:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "little-buddy",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "little-buddy:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
