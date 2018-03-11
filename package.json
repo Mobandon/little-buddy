@@ -1,7 +1,7 @@
 {
-  "name": "0.1.1",
+  "name": "little-buddy",
   "main": "./lib/little-buddy",
-  "version": "0.2.0",
+  "version": "0.1.1",
   "description": "Add a little picture below your tree view.",
   "keywords": [
     "ui",
