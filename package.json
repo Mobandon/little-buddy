@@ -1,5 +1,5 @@
 {
-  "name": "little-buddy",
+  "name": "0.1.1",
   "main": "./lib/little-buddy",
   "version": "0.1.1",
   "description": "Add a little picture below your tree view.",
